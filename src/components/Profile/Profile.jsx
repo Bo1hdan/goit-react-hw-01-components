@@ -40,15 +40,6 @@ export const Profile = ({username, tag,location, avatar,stats }) => {
     
 }   
 
-
-
-
-
-// Profile.propTypes = {
-//   text: PropTypes.string,
-// }
-
-
 Profile.propTypes = {
   username: PropTypes.string.isRequired,
   tag: PropTypes.string.isRequired,
@@ -62,4 +53,3 @@ Profile.propTypes = {
   
 };
 
-{/* <h1 className={css.title}>{text}</h1>  */}
