@@ -1,0 +1,37 @@
+
+.profile {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.description {
+}
+.avatar {
+  width: 250px;
+  height: 205px;
+  border-radius: 50%;
+}
+.name {
+  font-size: 26px;
+  font-weight: 700;
+  text-align: center;
+}
+.tag {
+  text-align: center;
+}
+.location {
+  text-align: center;
+}
+.stats {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  gap: 15px;
+}
+.label {
+  display: block;
+}
+.quantity {
+}
