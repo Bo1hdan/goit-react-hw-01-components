@@ -1,0 +1,26 @@
+.item {
+  width: 350px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  border: 1px solid black;
+  -webkit-box-shadow: 5px 5px 15px 5px #000000;
+  box-shadow: 5px 5px 15px 5px #000000;
+}
+.status {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  margin-left: 15px;
+}
+/* .avatar {
+}
+.name {
+} */
+.true {
+  background-color: darkgreen;
+}
+.false {
+  background-color: red;
+}
